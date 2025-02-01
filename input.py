@@ -8,7 +8,7 @@ if platform.system() == 'Windows':
     print("Running on Windows")
     # Windows-specific settings
 elif platform.system() == 'Darwin':  # macOS
-    print("Running on macOS")
+    print("Running on macOS")  
     # macOS-specific settings
 elif platform.system() == 'Linux':
     print("Running on Linux")
